@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Four-Card-Feature-Section/static/css/main.951d844f.css",
+    "main.js": "/Four-Card-Feature-Section/static/js/main.90622b17.js",
+    "static/media/icon-karma.svg": "/Four-Card-Feature-Section/static/media/icon-karma.24e0debeb1e51eaa14e295270e33df54.svg",
+    "static/media/icon-supervisor.svg": "/Four-Card-Feature-Section/static/media/icon-supervisor.2dd10a2df2ddca34f77ca6a2065c6be2.svg",
+    "static/media/icon-team-builder.svg": "/Four-Card-Feature-Section/static/media/icon-team-builder.b885fb580a3cb78c9ad249750dd65a01.svg",
+    "static/media/icon-calculator.svg": "/Four-Card-Feature-Section/static/media/icon-calculator.21bc9adc97d084a64aedb386f1e35c0d.svg",
+    "index.html": "/Four-Card-Feature-Section/index.html",
+    "main.951d844f.css.map": "/Four-Card-Feature-Section/static/css/main.951d844f.css.map",
+    "main.90622b17.js.map": "/Four-Card-Feature-Section/static/js/main.90622b17.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.951d844f.css",
+    "static/js/main.90622b17.js"
+  ]
+}
